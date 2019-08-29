@@ -1,0 +1,27 @@
+body {
+  background-color: #1f2732;
+  color: #fff;
+  text-align: center;
+  font-family: "Open Sans", sans-serif;
+  font-size: 16px;
+}
+
+#generate,
+#reset,
+#copy {
+  background-color: #ff497c;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+  padding: 10px 20px;
+  text-transform: uppercase;
+  margin-top: 50px;
+}
+
+#userText {
+  width: 400px;
+}
+
+#howMany {
+  width: 400px;
+}
